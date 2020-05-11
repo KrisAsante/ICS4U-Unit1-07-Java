@@ -3,7 +3,7 @@
  * Created by: Chris Asante
  * Date : April 2020
  * Created for : ICS4U
- * This program picks a random numnber between the max value chosen and 0
+ * This program lets you input 2 parameters to calculate the height
  * 
  ****************************************************************************/
 
